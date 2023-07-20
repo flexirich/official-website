@@ -1,1 +1,3 @@
-# official-website
+# Flexirich Official Website
+
+Just getting started
